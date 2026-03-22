@@ -25,7 +25,7 @@ const io = new Server(server, {
 connectDB();
 setupSockets(io);
 
-const PORT = process.env.PORT || 5001;
+const PORT = process.env.PORT || 5000;
 server.listen(PORT, () => {
   console.log(`Backend Server running on port ${PORT}`);
 });
