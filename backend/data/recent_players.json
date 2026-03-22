@@ -1,0 +1,3332 @@
+[
+    {
+        "name":"Aaqib Khan",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Aaron Hardie",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Aarya Desai",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Abdul Bazith",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Abdul Samad",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Abhay Choudhary",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Abhijeet Tomar",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Abhilash Shetty",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Abhimanyu Easwaran",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Abhinandan Singh",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Abhinav Manohar",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Abhishek Nair",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Abhishek Saini",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Abhishek Sharma",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Abid Mushtaq",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Abishek Porel",
+        "price":200,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Adam Milne",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Adam Zampa",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Adil Rashid",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Agni Chopra",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Aiden Markram",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Ajay Ahlawat",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ajay Mandal",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ajinkya Rahane",
+        "price":150,
+        "role":"BATTER"
+    },
+    {
+        "name":"Ajitesh Guruswamy",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Akash Deep",
+        "price":100,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Akash Madhwal",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Akash Parkar",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Akash Singh",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Akash Vashisht",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Akeal Hosein",
+        "price":150,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Akhil Chaudhary",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Akhil Rawat",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Akshat Raghuwanshi",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Alex Carey",
+        "price":100,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Ali Khan",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Alick Athanaze",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Allah Ghazanfar",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Alzarri Joseph",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Am Ghazanfar",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Aman Khan",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Aman Rao",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Amandeep Khare",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Amit Kumar",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Andre Fletcher",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Andre Siddarth",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Andrew Tye",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Angkrish Raghuvanshi",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Aniket Verma",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Anirudh Chowdhary",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Anirudh Kanwar",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ankit Singh Rajpoot",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Anmol Malhotra",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Anmolpreet Singh",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Anrich Nortje",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Anshul Kamboj",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Anshuman Hooda",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Anuj Rawat",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Anukul Roy",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Apoorv Wankhade",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Aradhya Shukla",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Arjun Azad",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Arjun Tendulkar",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Arpit Guleria",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Arshad Khan",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Arshdeep Singh",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Arshin Kulkarni",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Aryaman Singh Dhaliwal",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Aryan Juyal",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Ashish Dahariya",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Ashok Sharma",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ashton Agar",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ashton Turner",
+        "price":100,
+        "role":"BATTER"
+    },
+    {
+        "name":"Ashutosh Sharma",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ashwani Kumar",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ashwin Hebbar",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Atharva Ankolekar",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Atharva Kale",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Atharva Taide",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Atif Mushtaq",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Atit Sheth",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Auqib Dar",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Auqib Nabi",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Avanish Aravelly",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Avesh Khan",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Avinash Singh",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Avneesh Sudha",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Axar Patel",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ayaz Khan",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Ayush Badoni",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Ayush Mhatre",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Ayush Pandey",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Ayush Vartak",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Azmatullah Omarzai",
+        "price":150,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"B.R Sharath",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Baba Aparajith",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Baba Indrajith",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Bailapudi Yeswanth",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Baltej Dhanda",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Basil Thampi",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ben Duckett",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Ben Dwarshuis",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ben Howell",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ben Mcdermott",
+        "price":75,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Benjamin Sears",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Bevan John Jacobs",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Bhagmender Lather",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Bhanuka Rajapaksa",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Bharat Sharma",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Bhuvneshwar Kumar",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Bipin Saurabh",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Blessing Muzarabani",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Brandon King",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Brandon Mcmullen",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Brijesh Sharma",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Brydon Carse",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Cameron Green",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Charith Asalanka",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Chetan Sakariya",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Chetan Sharma",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Chintal Gandhi",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Chris Green",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Chris Jordan",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Cooper Connolly",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Corbin Bosch",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Daksh Kamra",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Dan Lawrence",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Daniel Mousley",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Daniel Sams",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Daniel Worrall",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Danish Malewar",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Darshan Nalkande",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Daryl Mitchell",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Daryn Dupavillon",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Dasun Shanaka",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"David Miller",
+        "price":150,
+        "role":"BATTER"
+    },
+    {
+        "name":"David Payne",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"David Warner",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Deepak Chahar",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Deepak Devadiga",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Deepak Hooda",
+        "price":75,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Devdutt Padikkal",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Devon Conway",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Dewald Brevis",
+        "price":75,
+        "role":"BATTER"
+    },
+    {
+        "name":"Dhruv Jurel",
+        "price":200,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Dhruv Kaushik",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Digvesh Rathi",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Digvesh Singh",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Digvijay Deshmukh",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Dilshan Madushanka",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Dinesh Bana",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Dipesh Parwani",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Divesh Sharma",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Dominic Drakes",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Donovan Ferreira",
+        "price":75,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Duan Jansen",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Dumindu Sewmina",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Dunith Wellalage",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Dushan Hemantha",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Dushmantha Chameera",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Dwaine Pretorius",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Emanjot Chahal",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Eshan Malinga",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Evin Lewis",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Faf Du Plessis",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Faridoon Dawoodzai",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Fazalhaq Farooqi",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Finn Allen",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Gaurav Gambhir",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Gerald Coetzee",
+        "price":125,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Girinath Reddy",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Glenn Maxwell",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Glenn Phillips",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Gudakesh Motie",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Gulbadin Naib",
+        "price":100,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Gurjapneet Singh",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Gurnoor Brar",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Gurnoor Singh Brar",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Gus Atkinson",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Hardik Pandya",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Hardik Raj",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Harnoor Pannu",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Harnoor Singh",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Harpreet Brar",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Harry Brook",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Harry Tector",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Harsh Dubey",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Harsh Tyagi",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Harshal Patel",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Harshit Rana",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Harvik Desai",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Hasan Mahmud",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Heinrich Klaasen",
+        "price":200,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Hemanth Kumar",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Hilton Cartwright",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Himanshu Chauhan",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Himanshu Sharma",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Himanshu Singh",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Himmat Singh",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Hritik Shokeen",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ibrahim Zadran",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Ishan Kishan",
+        "price":200,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Ishan Porel",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ishant Sharma",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jack Edwards",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Jacob Bethell",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Jacob Duffy",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jafar Jamal",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Jagadeesha Suchith",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jake Fraser-Mcgurk",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Jalaj Saxena",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"James Anderson",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"James Vince",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Jamie Overton",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Jasmer Dhankhar",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jason Behrendorff",
+        "price":150,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jason Holder",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Jasprit Bumrah",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jass Inder Baidwan",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jayant Yadav",
+        "price":75,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Jaydev Unadkat",
+        "price":100,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jeffery Vandersay",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jhathavedh Subramanyan",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jhye Richardson",
+        "price":150,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jimmy Neesham",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Jitesh Sharma",
+        "price":100,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Jofra Archer",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"John Turner",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Johnson Charles",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Jonny Bairstow",
+        "price":200,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Jonty Sidhu",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Jordan Cox",
+        "price":125,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Jos Buttler",
+        "price":200,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Josh Hazlewood",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Josh Inglis",
+        "price":200,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Josh Little",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Josh Philippe",
+        "price":75,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Joshua Brown",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Junior Dala",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"K.C Cariappa",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"K.M Asif",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"K.S Bharat",
+        "price":75,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Kagiso Rabada",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kamal Tripathi",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Kamindu Mendis",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Kamlesh Nagarkoti",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Kane Williamson",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Kanishk Chouhan",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Karim Janat",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Karn Sharma",
+        "price":50,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Karteek Sharma",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Kartik Chadha",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Kartik Sharma",
+        "price":200,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Kartik Tyagi",
+        "price":40,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Karun Nair",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Kaushik Maity",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Keemo Paul",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Keshav Maharaj",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Khaleel Ahmed",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Khrievitso Kense",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Kiran Chormale",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Kl Rahul",
+        "price":200,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Krains Fuletra",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Krish Bhagat",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Krishnappa Gowtham",
+        "price":100,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Kritagya Singh",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Krunal Pandya",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Kuldeep Sen",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kuldeep Yadav",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kuldip Yadav",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kulwant Khejroliya",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kumar Kartikeya Singh",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kumar Kushagra",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Kunal Rathore",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Kunal Singh Chibb",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kusal Mendis",
+        "price":75,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Kusal Perera",
+        "price":75,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Kwena Maphaka",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kyle Jamieson",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kyle Mayers",
+        "price":150,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Kyle Verreynne",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"L.R Chethan",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Lahiru Kumara",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Lakshay Jain",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Lalit Yadav",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Lance Morris",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Leus Du Plooy",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Lhuan-Dre Pretorius",
+        "price":200,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Liam Livingstone",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Litton Das",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Lizaad Williams",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Lockie Ferguson",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Luke Wood",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Lungi Ngidi",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Lungisani Ngidi",
+        "price":100,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Luvnith Sisodia",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"M Shahrukh Khan",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"M. Ajnas",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"M. Siddharth",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Madhav Kaushik",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Madhav Tiwari",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mahedi Hasan",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Maheesh Theekshana",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mahesh Pithiya",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mahipal Lomror",
+        "price":50,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Manan Vohra",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Manav Suthar",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mangesh Yadav",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Manimaran Siddharth",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Manish Pandey",
+        "price":75,
+        "role":"BATTER"
+    },
+    {
+        "name":"Manish Reddy",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Manoj Bhandage",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Manvanth Kumar L",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Maramreddy Reddy",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Marco Jansen",
+        "price":125,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Marcus Stoinis",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mark Chapman",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Matheesha Pathirana",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Matt Henry",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Matthew Breetzke",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Matthew Forde",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Matthew Potts",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Matthew Short",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mayank Agarawal",
+        "price":100,
+        "role":"BATTER"
+    },
+    {
+        "name":"Mayank Dagar",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mayank Gusain",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mayank Markande",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mayank Rawat",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mayank Yadav",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mehidy Hasan Miraz",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Michael Bracewell",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Michael Neser",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Michael Pepper",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Mikyle Louis",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Mitchell Marsh",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mitchell Owen",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mitchell Santner",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mitchell Starc",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Moeen Ali",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mohamed Ali",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mohammad Nabi",
+        "price":150,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mohammad Shami",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mohammad Siraj",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mohammed Azharuddeen",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Mohammed Shami",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mohammed Siraj",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mohd Izhar",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mohd. Arshad Khan",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mohit Avasthi",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mohit Rathee",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mohit Sharma",
+        "price":50,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mohsin Khan",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Money Grewal",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ms Dhoni",
+        "price":200,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Muhammed Khan",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Mujeeb Ur Rahman",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mujtaba Yousuf",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mukesh Choudhary",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mukesh Kumar",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mukhtar Hussain",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mukul Choudhary",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Murugan Ashwin",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Musaif Ajaz",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Musheer Khan",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mustafizur Rahman",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Nahid Rana",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Najibullah Zadran",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Naman Dhir",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Naman Tiwari",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Nandre Burger",
+        "price":125,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Nangeyalia Kharote",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Narayan Jagadeesan",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Nasir Lone",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Nathan Ellis",
+        "price":125,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Nathan Smith",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Navdeep Saini",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Naveen Ul Haq",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Nehal Wadhera",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Nicholas Pooran",
+        "price":200,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Ninad Rathva",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Nishant Sindhu",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Nishanth Saranu",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Nishunk Birla",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Nitish Kumar Reddy",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Nitish Rana",
+        "price":150,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Noor Ahmad",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Nqabayomzi Peter",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Nuwan Thushara",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Obed Mccoy",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Odean Smith",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Oliver Davies",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Ollie Pope",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Olly Stone",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Onkar Tarmale",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ottneil Baartman",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"P. Vignesh",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Pankaj Jaswal",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Pat Cummins",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Pathum Nissanka",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Patrick Kruger",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Phil Salt",
+        "price":200,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Piyush Chawla",
+        "price":50,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Prabhsimran Singh",
+        "price":200,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Pradosh Paul",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Pradyuman Kumar Singh",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Praful Hinge",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Prashant Chauhan",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Prashant Sai Painkra",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Prashant Solanki",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Prashant Veer",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Prasidh Krishna",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Prateek Yadav",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Pratham Singh",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Praveen Dubey",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Pravin Dubey",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Prayas Ray Barman",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Prerak Mankad",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Prerit Dutta",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Prince Choudhary",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Prince Yadav",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Prithvi Raj",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Prithvi Shaw",
+        "price":75,
+        "role":"BATTER"
+    },
+    {
+        "name":"Prithviraj Yarra",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Priyam Garg",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Priyansh Arya",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Pukhraj Mann",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Pulkit Narang",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Pyla Avinash",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Qais Ahmad",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Quinton De Kock",
+        "price":200,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"R. Sai Kishore",
+        "price":75,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Rachin Ravindra",
+        "price":150,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Raghav Goyal",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Raghu Sharma",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rahmanullah Gurbaz",
+        "price":200,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Rahul Chahar",
+        "price":100,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rahul Tewatia",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Rahul Tripathi",
+        "price":75,
+        "role":"BATTER"
+    },
+    {
+        "name":"Raj Angad Bawa",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Raj Bawa",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Raj Limbani",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Rajan Kumar",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rajat Patidar",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Rajneesh Gurbani",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Rajvardhan Hangargekar",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ramakrishna Ghosh",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ramandeep Singh",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Ramesh Prasad",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rashid Khan",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Rasikh Dar",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rasikh Salam",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rassie Van Der Dussen",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Ravi Bishnoi",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ravi Kumar",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ravi Singh",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Ravi Yadav",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ravichandaran Ashwin",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ravichandran Smaran",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Ravindra Jadeja",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Reece Topley",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Richard Gleeson",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Richard Ngarava",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ricky Bhui",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Rilee Rossouw",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Riley Meredith",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rinku Singh",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Ripal Patel",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Rishabh Pant",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Rishad Hossain",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rishi Dhawan",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Rituraj Sharma",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Riyan Parag",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Robin Minz",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Rohan Kunnummal",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Rohan Rana",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Rohit Rayudu",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Rohit Sharma",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Romario Shepherd",
+        "price":150,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Roshan Waghsare",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Roston Chase",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Rovman Powell",
+        "price":150,
+        "role":"BATTER"
+    },
+    {
+        "name":"Ruturaj Gaikwad",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Ryan Rickelton",
+        "price":100,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"S. Midhun",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"S. Rithik Easwaran",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Sabhay Chadha",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sachin Baby",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Sachin Dhas",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Sahil Parakh",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Sai Kishore",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sai Sudharsan",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Sairaj Patil",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sakib Hussain",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Salil Arora",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Salman Nizar",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Sam Billings",
+        "price":150,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Sam Curran",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Samarth Nagraj",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Samarth Vyas",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Sameer Rizvi",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sandeep Sharma",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sandeep Warrier",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sanjay Yadav",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sanju Samson",
+        "price":200,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Sanskar Rawat",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Sanvir Singh",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Saransh Jain",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sarfaraz Khan",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sarthak Ranjan",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Satvik Deswal",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Saumy Pandey",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Saurabh Dubey",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Saurav Chauhan",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Sayed Irfan Aftab",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sean Abbott",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sediqullah Atal",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Shahbaz Ahamad",
+        "price":100,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shahbaz Ahmed",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shai Hope",
+        "price":125,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Shaik Rasheed",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Shakib Al Hasan",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shamar Joseph",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shams Mulani",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shardul Thakur",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shashank Singh",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shashwat Rawat",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Sherfane Rutherford",
+        "price":150,
+        "role":"BATTER"
+    },
+    {
+        "name":"Shimron Hetmyer",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Shiva Singh",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shivalik Sharma",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shivam Dube",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shivam Mavi",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shivam Shukla",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shivam Singh",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shivang Kumar",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shoriful Islam",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shoun Roger",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Shreyas Chavan",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shreyas Gopal",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shreyas Iyer",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Shrijith Krishnan",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Shubham Agrawal",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shubham Dubey",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Shubham Garhwal",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shubham Kapse",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shubham Khajuria",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Shubhang Hegde",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shubman Gill",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Siddharth Kaul",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Siddharth Yadav",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Sikandar Raza",
+        "price":125,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Simarjeet Singh",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Smaran Ravichandran",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Sohraab Dhaliwal",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sonu Yadav",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Spencer Johnson",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Steve Smith",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Sudip Gharami",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Sumeet Verma",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Sumit Ghadigaonkar",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Sumit Kumar",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sumit Kumar Beniwal",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sunil Narine",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Suryakumar Yadav",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Suryansh Shedge",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sushant Mishra",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Suyash Prabhudessai",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Suyash Sharma",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Swapnil Singh",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Swastik Chhikara",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Syed Khaleel Ahmed",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"T Natarajan",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"T. Natarajan",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Tabraiz Shamsi",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Tanay Thyagarajann",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Tanmay Agarwal",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Tanush Kotian",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Tanveer Sangha",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Tanzim Hasan Sakib",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Taskin Ahmed",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Tejasvi Dahiya",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Tejasvi Jaiswal",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Tejasvi Singh",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Tejpreet Singh",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Tilak Varma",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Tim David",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Tim Seifert",
+        "price":125,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Tim Southee",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Tom Banton",
+        "price":200,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Tom Curran",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Tom Kohler-Cadmore",
+        "price":50,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Tom Latham",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Towhid Hridoy",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Travis Head",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Trent Boult",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Tripurana Vijay",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Tripuresh Singh",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Tristan Stubbs",
+        "price":200,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Tushar Deshpande",
+        "price":100,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Tushar Raheja",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Tymal Mills",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Uday Saharan",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Umang Kumar",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Umesh Yadav",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Umran Malik",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Unmukt Chand",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Upendra Singh Yadav",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Urvil Patel",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Utkarsh Singh",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Vaibhav Arora",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vaibhav Sooryavanshi",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Vaibhav Suryavanshi",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Vaisakh Chandran",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Vansh Bedi",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Varun Chakravarthy",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vasu Vats",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Venkata Satyanarayana Penmetsa",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Venkatesh Iyer",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Vicky Ostwal",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Vidwath Kaverappa",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vidyadhar Patil",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vignesh Puthur",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Vihaan Malhotra",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Vijay Kumar",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vijay Shankar",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Vijay Yadav",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Vijayakanth Viyaskanth",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vijaykumar Vyshak",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vineet Panwar",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vipraj Nigam",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Virat Kohli",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Virat Singh",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Vishal Godara",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vishal Nishad",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vishnu Solanki",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Vishnu Vinod",
+        "price":30,
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Vishwanath Pratap Singh",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Vivrant Sharma",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Vyshak Vijaykumar",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Wanindu Hasaranga",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Waqar Salamkheil",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Washington Sundar",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Wayne Parnell",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Wiaan Mulder",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Will Jacks",
+        "price":200,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Will Young",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"William O'Rourke",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"William Sutherland",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Writtick Chatterjee",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Xavier Bartlett",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Yajas Sharma",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Yash Dabas",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Yash Dayal",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Yash Dhull",
+        "price":30,
+        "role":"BATTER"
+    },
+    {
+        "name":"Yash Raj Punja",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Yash Thakur",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Yashasvi Jaiswal",
+        "price":200,
+        "role":"BATTER"
+    },
+    {
+        "name":"Yeddala Reddy",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Yudhvir Charak",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Yudhvir Singh",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Yuvraj Chaudhary",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Yuvraj Chudasama",
+        "price":30,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Yuzvendra Chahal",
+        "price":200,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Zahir Khan Pakten",
+        "price":75,
+        "role":"BOWLER"
+    },
+    {
+        "name":"Zak Foulkes",
+        "price":30,
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Zeeshan Ansari",
+        "price":30,
+        "role":"BOWLER"
+    }
+]

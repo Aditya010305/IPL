@@ -1,0 +1,4070 @@
+[
+    {
+        "name":"MS Dhoni",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Srikkanth Anirudha",
+        "role":"BATTER"
+    },
+    {
+        "name":"Arun Karthik",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Subramaniam Badrinath",
+        "role":"BATTER"
+    },
+    {
+        "name":"Stephen Fleming",
+        "role":"BATTER"
+    },
+    {
+        "name":"Matthew Hayden",
+        "role":"BATTER"
+    },
+    {
+        "name":"Michael Hussey",
+        "role":"BATTER"
+    },
+    {
+        "name":"Chamara Kapugedera",
+        "role":"BATTER"
+    },
+    {
+        "name":"Abhinav Mukund",
+        "role":"BATTER"
+    },
+    {
+        "name":"Parthiv Patel",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Suresh Raina",
+        "role":"BATTER"
+    },
+    {
+        "name":"Ravichandran Ashwin",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Joginder Sharma",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Albie Morkel",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Jacob Oram",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Vidyut Sivaramakrishnan",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Lakshmipathy Balaji",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Manpreet Gony",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shadab Jakati",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Muttiah Muralidaran",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Makhaya Ntini",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sudeep Tyagi",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Palani Amarnath",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Napoleon Einstein",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Viraj Kadbe",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Suresh Kumar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"VVS Laxman",
+        "role":"BATTER"
+    },
+    {
+        "name":"Herschelle Gibbs",
+        "role":"BATTER"
+    },
+    {
+        "name":"Adam Gilchrist",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Dwaraka Ravi Teja",
+        "role":"BATTER"
+    },
+    {
+        "name":"Rohit Sharma",
+        "role":"BATTER"
+    },
+    {
+        "name":"Chamara Silva",
+        "role":"BATTER"
+    },
+    {
+        "name":"Venugopal Rao",
+        "role":"BATTER"
+    },
+    {
+        "name":"Arjun Yadav",
+        "role":"BATTER"
+    },
+    {
+        "name":"Shahid Afridi",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Scott Styris",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Andrew Symonds",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Pragyan Ojha",
+        "role":"BOWLER"
+    },
+    {
+        "name":"RP Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Chaminda Vaas",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Nuwan Zoysa",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sanjay Bangar",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Halhadar Das",
+        "role":"BATTER"
+    },
+    {
+        "name":"Doddapaneni Kalyankrishna",
+        "role":"BOWLER"
+    },
+    {
+        "name":"PM Sarvesh Kumar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Paidikalva Vijaykumar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Virender Sehwag",
+        "role":"BATTER"
+    },
+    {
+        "name":"AB de Villiers",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Shikhar Dhawan",
+        "role":"BATTER"
+    },
+    {
+        "name":"Gautam Gambhir",
+        "role":"BATTER"
+    },
+    {
+        "name":"Dinesh Karthik",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Manoj Tiwary",
+        "role":"BATTER"
+    },
+    {
+        "name":"Tejashwi Yadav",
+        "role":"BATTER"
+    },
+    {
+        "name":"Rajat Bhatia",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Tillakaratne Dilshan",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Farveez Maharoof",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Yo Mahesh",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mithun Manhas",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Yogesh Nagar",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shoaib Malik",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mayank Tehlan",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Daniel Vettori",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Brett Geeves",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Glenn McGrath",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Amit Mishra",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mohammad Asif",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Pradeep Sangwan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sourav Ganguly",
+        "role":"BATTER"
+    },
+    {
+        "name":"Aakash Chopra",
+        "role":"BATTER"
+    },
+    {
+        "name":"Debabrata Das",
+        "role":"BATTER"
+    },
+    {
+        "name":"Brad Hodge",
+        "role":"BATTER"
+    },
+    {
+        "name":"Brendon McCullum",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Ricky Ponting",
+        "role":"BATTER"
+    },
+    {
+        "name":"Wriddhiman Saha",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Salman Butt",
+        "role":"BATTER"
+    },
+    {
+        "name":"Tatenda Taibu",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Rohan Banerjee",
+        "role":"BATTER"
+    },
+    {
+        "name":"Cheteshwar Pujara",
+        "role":"BATTER"
+    },
+    {
+        "name":"Yashpal Singh",
+        "role":"BATTER"
+    },
+    {
+        "name":"Chris Gayle",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"David Hussey",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Iqbal Abdulla",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mohammad Hafeez",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Laxmi Shukla",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ajit Agarkar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ashok Dinda",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Murali Kartik",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Siddarth Kaul",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ajantha Mendis",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ishant Sharma",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shoaib Akhtar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Umar Gul",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ranadeb Bose",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Saurasish Lahiri",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sachin Tendulkar",
+        "role":"BATTER"
+    },
+    {
+        "name":"Loots Bosman",
+        "role":"BATTER"
+    },
+    {
+        "name":"Ankeet Chavan",
+        "role":"BATTER"
+    },
+    {
+        "name":"Siddharth Chitnis",
+        "role":"BATTER"
+    },
+    {
+        "name":"Manish Pandey",
+        "role":"BATTER"
+    },
+    {
+        "name":"Ashwell Prince",
+        "role":"BATTER"
+    },
+    {
+        "name":"Ajinkya Rahane",
+        "role":"BATTER"
+    },
+    {
+        "name":"Luke Ronchi",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Pinal Shah",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Dominic Thornely",
+        "role":"BATTER"
+    },
+    {
+        "name":"Saurabh Tiwary",
+        "role":"BATTER"
+    },
+    {
+        "name":"Robin Uthappa",
+        "role":"BATTER"
+    },
+    {
+        "name":"Dwayne Bravo",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Gaurav Dhiman",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sanath Jayasuriya",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Abhishek Nayar",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shaun Pollock",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Dwayne Smith",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Dilhara Fernando",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Harbhajan Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Dhawal Kulkarni",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ashish Nehra",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Andre Nel",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rajesh Pawar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Swapnil Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Lasith Malinga",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Musavir Khote",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rohan Raje",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vikrant Yeligati",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mahela Jayawardene",
+        "role":"BATTER"
+    },
+    {
+        "name":"Karan Goel",
+        "role":"BATTER"
+    },
+    {
+        "name":"Simon Katich",
+        "role":"BATTER"
+    },
+    {
+        "name":"Uday Kaul",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Shaun Marsh",
+        "role":"BATTER"
+    },
+    {
+        "name":"Luke Pomersbach",
+        "role":"BATTER"
+    },
+    {
+        "name":"Nitin Saini",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Kumar Sangakkara",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Ramnaresh Sarwan",
+        "role":"BATTER"
+    },
+    {
+        "name":"Sunny Sohal",
+        "role":"BATTER"
+    },
+    {
+        "name":"Tanmay Srivastava",
+        "role":"BATTER"
+    },
+    {
+        "name":"Piyush Chawla",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Rishi Dhawan",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"James Hopes",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Irfan Pathan",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Brett Lee",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kyle Mills",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ramesh Powar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sreesanth",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ajitesh Argal",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Pankaj Dharmani",
+        "role":"BATTER"
+    },
+    {
+        "name":"Gagandeep Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sahil Kukreja",
+        "role":"BATTER"
+    },
+    {
+        "name":"Wilkin Mota",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vikram Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rahul Dravid",
+        "role":"BATTER"
+    },
+    {
+        "name":"Mark Boucher",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Shivnarine Chanderpaul",
+        "role":"BATTER"
+    },
+    {
+        "name":"Bharat Chipli",
+        "role":"BATTER"
+    },
+    {
+        "name":"Shreevats Goswami",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Wasim Jaffer",
+        "role":"BATTER"
+    },
+    {
+        "name":"Virat Kohli",
+        "role":"BATTER"
+    },
+    {
+        "name":"Misbah-ul-Haq",
+        "role":"BATTER"
+    },
+    {
+        "name":"Ross Taylor",
+        "role":"BATTER"
+    },
+    {
+        "name":"Cameron White",
+        "role":"BATTER"
+    },
+    {
+        "name":"Sunil Joshi",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Jacques Kallis",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ashley Noffke",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Abdur Razzak",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Balachandra Akhil",
+        "role":"BOWLER"
+    },
+    {
+        "name":"KP Appanna",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Zaheer Khan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Praveen Kumar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Anil Kumble",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Dale Steyn",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vinay Kumar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Nathan Bracken",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Neravanda Aiyappa",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jagadeesh Arunkumar",
+        "role":"BATTER"
+    },
+    {
+        "name":"Devraj Patil",
+        "role":"BATTER"
+    },
+    {
+        "name":"Swapnil Asnodkar",
+        "role":"BATTER"
+    },
+    {
+        "name":"Mohammad Kaif",
+        "role":"BATTER"
+    },
+    {
+        "name":"Kamran Akmal",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Taruwar Kohli",
+        "role":"BATTER"
+    },
+    {
+        "name":"Darren Lehmann",
+        "role":"BATTER"
+    },
+    {
+        "name":"Mahesh Rawat",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Jaydev Shah",
+        "role":"BATTER"
+    },
+    {
+        "name":"Graeme Smith",
+        "role":"BATTER"
+    },
+    {
+        "name":"Younis Khan",
+        "role":"BATTER"
+    },
+    {
+        "name":"Justin Langer",
+        "role":"BATTER"
+    },
+    {
+        "name":"Ravindra Jadeja",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Niraj Patel",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Yusuf Pathan",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shane Watson",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Dimitri Mascarenhas",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shane Warne",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Morne Morkel",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Pankaj Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Munaf Patel",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Dinesh Salunkhe",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sohail Tanvir",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Siddharth Trivedi",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Aditya Angle",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sumit Khatri",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Parag More",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Anup Revandkar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"George Bailey",
+        "role":"BATTER"
+    },
+    {
+        "name":"Murali Vijay",
+        "role":"BATTER"
+    },
+    {
+        "name":"Andrew Flintoff",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Thilan Thushara",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Manvinder Bisla",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Tirumalasetti Suman",
+        "role":"BATTER"
+    },
+    {
+        "name":"Fidel Edwards",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ryan Harris",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jaskaran Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Abhinav Kumar",
+        "role":"BATTER"
+    },
+    {
+        "name":"Azhar Bilakhia",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shoaib Ahmed",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Owais Shah",
+        "role":"BATTER"
+    },
+    {
+        "name":"David Warner",
+        "role":"BATTER"
+    },
+    {
+        "name":"Paul Collingwood",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Andrew McDonald",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Dirk Nannes",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Aavishkar Salvi",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Umesh Yadav",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Arindam Ghosh",
+        "role":"BATTER"
+    },
+    {
+        "name":"Morne van Wyk",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Moises Henriques",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Angelo Mathews",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Anureet Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Charl Langeveldt",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mashrafe Mortaza",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shoaib Shaikh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mohammad Ashraful",
+        "role":"BATTER"
+    },
+    {
+        "name":"Jean-Paul Duminy",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ryan McLaren",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Graham Napier",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Chetanya Nanda",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rahil Shaikh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ravikant Shukla",
+        "role":"BATTER"
+    },
+    {
+        "name":"Ryan Ninan",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ravi Bopara",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Yusuf Abdulla",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Amanpreet Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Burt Cockley",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vikramjeet Malik",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jerome Taylor",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rajesh Bishnoi",
+        "role":"BATTER"
+    },
+    {
+        "name":"Chidhambaram Gautam",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Ishank Jaggi",
+        "role":"BATTER"
+    },
+    {
+        "name":"Kevin Pietersen",
+        "role":"BATTER"
+    },
+    {
+        "name":"Saurabh Bandekar",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Raju Bhatkal",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Kedar Jadhav",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Jesse Ryder",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Roelof van der Merwe",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sreenath Aravind",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Bhuvneshwar Kumar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Abhimanyu Mithun",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Karn Sharma",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rangaraj Suthesh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Dillon du Preez",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Udit Patel",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jitendra Patil",
+        "role":"BOWLER"
+    },
+    {
+        "name":"RK Sabharwal",
+        "role":"BATTER"
+    },
+    {
+        "name":"Tinu Yohannan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Naman Ojha",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Rob Quiney",
+        "role":"BATTER"
+    },
+    {
+        "name":"Paul Valthaty",
+        "role":"BATTER"
+    },
+    {
+        "name":"Paras Dogra",
+        "role":"BATTER"
+    },
+    {
+        "name":"Johan Botha",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Lee Carseldine",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Raiphi Gomez",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Abhishek Raut",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shane Harwood",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Tyron Henderson",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kamran Khan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Amit Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shaun Tait",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Pushkaraj Chavan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Abdulahad Malek",
+        "role":"BATTER"
+    },
+    {
+        "name":"Mohammed Arif",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Atul Sharma",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Gajendra Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ashraf Makda",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shrideep Mangela",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Hemang Badani",
+        "role":"BATTER"
+    },
+    {
+        "name":"Justin Kemp",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Thisara Perera",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Doug Bollinger",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Chandrasekar Ganapathy",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mohnish Mishra",
+        "role":"BATTER"
+    },
+    {
+        "name":"Bodapati Sumanth",
+        "role":"BATTER"
+    },
+    {
+        "name":"Ashish Reddy",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mitchell Marsh",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Kemar Roach",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rahul Sharma",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Anirudh Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sarabjit Ladda",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Wayne Parnell",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Joginder Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shashi Ranjan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sarandeep Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Harshad Khadiwale",
+        "role":"BATTER"
+    },
+    {
+        "name":"Ganapathi Vignesh",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Varun Aaron",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shane Bond",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Eklak Ahmid",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rohan Gavaskar",
+        "role":"BATTER"
+    },
+    {
+        "name":"Chirag Pathak",
+        "role":"BATTER"
+    },
+    {
+        "name":"Chandan Madan",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Ambati Rayudu",
+        "role":"BATTER"
+    },
+    {
+        "name":"Aditya Tare",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Kieron Pollard",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Rajagopal Sathish",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Abu Nechim",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ishan Malhotra",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ali Murtaza",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rahul Shukla",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Syed Shahabuddin",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Adrian Barath",
+        "role":"BATTER"
+    },
+    {
+        "name":"Bipul Sharma",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Reetinder Sodhi",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Love Ablish",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shalabh Srivastava",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rusty Theron",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Eoin Morgan",
+        "role":"BATTER"
+    },
+    {
+        "name":"Steven Smith",
+        "role":"BATTER"
+    },
+    {
+        "name":"Sridharan Sriram",
+        "role":"BATTER"
+    },
+    {
+        "name":"Faiz Fazal",
+        "role":"BATTER"
+    },
+    {
+        "name":"Aaron Finch",
+        "role":"BATTER"
+    },
+    {
+        "name":"Abhishek Jhunjhunwala",
+        "role":"BATTER"
+    },
+    {
+        "name":"Michael Lumb",
+        "role":"BATTER"
+    },
+    {
+        "name":"Amit Paunikar",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Adam Voges",
+        "role":"BATTER"
+    },
+    {
+        "name":"Damien Martyn",
+        "role":"BATTER"
+    },
+    {
+        "name":"Sumit Narwal",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shrikant Wagh",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Syed Quadri",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Amit Uniyal",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Faf du Plessis",
+        "role":"BATTER"
+    },
+    {
+        "name":"Kuthethurshri Vasudevadas",
+        "role":"BATTER"
+    },
+    {
+        "name":"Ben Hilfenhaus",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Nuwan Kulasekara",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Suraj Randiv",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Tim Southee",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kedar Devdhar",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Chris Lynn",
+        "role":"BATTER"
+    },
+    {
+        "name":"Dan Christian",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Anand Rajan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ankit Sharma",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Akash Bhandari",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Travis Birt",
+        "role":"BATTER"
+    },
+    {
+        "name":"Robin Bist",
+        "role":"BATTER"
+    },
+    {
+        "name":"Unmukt Chand",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Colin Ingram",
+        "role":"BATTER"
+    },
+    {
+        "name":"Prashant Naik",
+        "role":"BATTER"
+    },
+    {
+        "name":"Matthew Wade",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Ajit Chandila",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Robbie Frylinck",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shahbaz Nadeem",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vikas Mishra",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vivek Yadav",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Brad Haddin",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Shakib Al Hasan",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ryan ten Doeschate",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mohammed Shami",
+        "role":"BOWLER"
+    },
+    {
+        "name":"James Pattinson",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jaydev Unadkat",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Aiden Blizzard",
+        "role":"BATTER"
+    },
+    {
+        "name":"Davy Jacobs",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Sarul Kanwar",
+        "role":"BATTER"
+    },
+    {
+        "name":"Suryakumar Yadav",
+        "role":"BATTER"
+    },
+    {
+        "name":"James Franklin",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Yuzvendra Chahal",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Pawan Suyal",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Santosh Yadav",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Clint McKay",
+        "role":"BOWLER"
+    },
+    {
+        "name":"David Miller",
+        "role":"BATTER"
+    },
+    {
+        "name":"Sunny Singh",
+        "role":"BATTER"
+    },
+    {
+        "name":"Amit Yadav",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mandeep Singh",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Bhargav Bhatt",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Nathan Rimmington",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Stuart Broad",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mayank Agarwal",
+        "role":"BATTER"
+    },
+    {
+        "name":"Rilee Rossouw",
+        "role":"BATTER"
+    },
+    {
+        "name":"Jonathan Vandiar",
+        "role":"BATTER"
+    },
+    {
+        "name":"BN Bharath",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Johan van der Wath",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Nuwan Pradeep",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Abrar Kazi",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Asad Pathan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jamaluddin Syed Mohammad",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Dishant Yagnik",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Stuart Binny",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ashok Menaria",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Deepak Chahar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Aditya Dole",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Nayan Doshi",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Samad Fallah",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Deepak Chougule",
+        "role":"BATTER"
+    },
+    {
+        "name":"Michael Klinger",
+        "role":"BATTER"
+    },
+    {
+        "name":"Sushant Marathe",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Gnaneswara Rao",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"John Hastings",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Steve O'Keefe",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Padmanabhan Prasanth",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Muthiah Muralidaran",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Prasanth Parameswaran",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Yuvraj Singh",
+        "role":"BATTER"
+    },
+    {
+        "name":"Eklavya Dwivedi",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Callum Ferguson",
+        "role":"BATTER"
+    },
+    {
+        "name":"Harpreet Singh",
+        "role":"BATTER"
+    },
+    {
+        "name":"Dheeraj Jadhav",
+        "role":"BATTER"
+    },
+    {
+        "name":"Tim Paine",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"James Faulkner",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shrikant Mundhe",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ganesh Gaikwad",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Imtiaz Ahmed",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Nathan McCullum",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sachin Rana",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Alfonso Thomas",
+        "role":"BOWLER"
+    },
+    {
+        "name":"S Badrinath",
+        "role":"BATTER"
+    },
+    {
+        "name":"Darren Bravo",
+        "role":"BATTER"
+    },
+    {
+        "name":"Tanmay Mishra",
+        "role":"BATTER"
+    },
+    {
+        "name":"Akshath Reddy",
+        "role":"BATTER"
+    },
+    {
+        "name":"Biplab Samantray",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Tekkami Atchuta Rao",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Daniel Harris",
+        "role":"BATTER"
+    },
+    {
+        "name":"Veer Pratap Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sneha Kishore",
+        "role":"BOWLER"
+    },
+    {
+        "name":"TP Sudhindra",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Punit Bisht",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Gulam Bodi",
+        "role":"BATTER"
+    },
+    {
+        "name":"Manprit Juneja",
+        "role":"BATTER"
+    },
+    {
+        "name":"Glenn Maxwell",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Andre Russell",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Doug Bracewell",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Pawan Negi",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sunny Gupta",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Zafir Patel",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kuldeep Raval",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sanju Samson",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Chirag Jani",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sunil Narine",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Marchant de Lange",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Iresh Saxena",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Richard Levi",
+        "role":"BATTER"
+    },
+    {
+        "name":"Apoorv Wankhade",
+        "role":"BATTER"
+    },
+    {
+        "name":"Amitoze Singh",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Kuldeep Yadav",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Robin Peterson",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mitchell Johnson",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sujit Nayak",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Gurkeerat Singh Mann",
+        "role":"BATTER"
+    },
+    {
+        "name":"Azhar Mahmood",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ben Cutting",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Kyle Abbott",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Parvinder Awana",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Karun Nair",
+        "role":"BATTER"
+    },
+    {
+        "name":"Harshal Patel",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"S Thiyagarajan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Dinesh Chandimal",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Kevon Cooper",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Brad Hogg",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Michael Clarke",
+        "role":"BATTER"
+    },
+    {
+        "name":"Marlon Samuels",
+        "role":"BATTER"
+    },
+    {
+        "name":"Tamim Iqbal",
+        "role":"BATTER"
+    },
+    {
+        "name":"Luke Wright",
+        "role":"BATTER"
+    },
+    {
+        "name":"Anustup Majumdar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Krishnakant Upadhyay",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Baba Aparajith",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Akila Dananjaya",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Jason Holder",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Chris Morris",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Vijay Shankar",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ben Laughlin",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ronit More",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ankit Rajpoot",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ravi Karthikeyan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mohit Sharma",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Quinton de Kock",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Daren Sammy",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Hanuma Vihari",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Thalaivan Sargunam",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ben Rohrer",
+        "role":"BATTER"
+    },
+    {
+        "name":"Jeevan Mendis",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Royston Dias",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Aristh Singhvi",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sachithra Senanayake",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Phillip Hughes",
+        "role":"BATTER"
+    },
+    {
+        "name":"Nathan Coulter-Nile",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Jalaj Saxena",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Axar Patel",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Jasprit Bumrah",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Javed Khan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Manan Vohra",
+        "role":"BATTER"
+    },
+    {
+        "name":"Michael Neser",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Aniket Choudhary",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sandeep Sharma",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sheldon Jackson",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"KL Rahul",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Chris Barnwell",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ravi Rampaul",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sandeep Warrier",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vijay Zol",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kusal Perera",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Sachin Baby",
+        "role":"BATTER"
+    },
+    {
+        "name":"Harmeet Singh",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Samuel Badree",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Pravin Tambe",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Parvez Rasool",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ishwar Pandey",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kane Richardson",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Udit Birla",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Matt Henry",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ricky Bhui",
+        "role":"BATTER"
+    },
+    {
+        "name":"Brendan Taylor",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Chama Milind",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Milind Kumar",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"James Neesham",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Imran Tahir",
+        "role":"BOWLER"
+    },
+    {
+        "name":"HS Sharath",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jayant Yadav",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Pat Cummins",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sayan Mondal",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ben Dunk",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Lendl Simmons",
+        "role":"BATTER"
+    },
+    {
+        "name":"Corey Anderson",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shreyas Gopal",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Josh Hazlewood",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Krishmar Santokie",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shardul Thakur",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Beuran Hendricks",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Karanveer Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shivam Sharma",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mitchell Starc",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ankush Bains",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Deepak Hooda",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Rahul Tewatia",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Pratyush Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Andrew Tye",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kane Williamson",
+        "role":"BATTER"
+    },
+    {
+        "name":"Trent Boult",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Srikar Bharat",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Travis Head",
+        "role":"BATTER"
+    },
+    {
+        "name":"Shreyas Iyer",
+        "role":"BATTER"
+    },
+    {
+        "name":"Marcus Stoinis",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"KK Jiyas",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Gurinder Sandhu",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Domnic Muthuswami",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vaibhav Rawal",
+        "role":"BATTER"
+    },
+    {
+        "name":"KC Cariappa",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Aditya Garhwal",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Alex Hales",
+        "role":"BATTER"
+    },
+    {
+        "name":"Siddhesh Lad",
+        "role":"BATTER"
+    },
+    {
+        "name":"Colin Munro",
+        "role":"BATTER"
+    },
+    {
+        "name":"Nitish Rana",
+        "role":"BATTER"
+    },
+    {
+        "name":"Hardik Pandya",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mitchell McClenaghan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jagadeesha Suchith",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Akshay Wakhare",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Nikhil Naik",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Yogesh Golwalkar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shishir Bhavane",
+        "role":"BATTER"
+    },
+    {
+        "name":"Sarfaraz Khan",
+        "role":"BATTER"
+    },
+    {
+        "name":"Nic Maddinson",
+        "role":"BATTER"
+    },
+    {
+        "name":"Sean Abbott",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"David Wiese",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Yogesh Takawale",
+        "role":"BATTER"
+    },
+    {
+        "name":"Pardeep Sahu",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Barinder Sran",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sagar Trivedi",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Peter Handscomb",
+        "role":"BATTER"
+    },
+    {
+        "name":"Usman Khawaja",
+        "role":"BATTER"
+    },
+    {
+        "name":"Murugan Ashwin",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Scott Boland",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Adam Zampa",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mustafizur Rahman",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sam Billings",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Akhil Herwadkar",
+        "role":"BATTER"
+    },
+    {
+        "name":"Rishabh Pant",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Carlos Brathwaite",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mahipal Lomror",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Khaleel Ahmed",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Manan Sharma",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Jos Buttler",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Martin Guptill",
+        "role":"BATTER"
+    },
+    {
+        "name":"Jitesh Sharma",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Kishore Kamath",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Krunal Pandya",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Deepak Punia",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Nathu Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Hashim Amla",
+        "role":"BATTER"
+    },
+    {
+        "name":"Armaan Jaffer",
+        "role":"BATTER"
+    },
+    {
+        "name":"Farhaan Behardien",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Praveen Dubey",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Chris Jordan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Akshay Karnewar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Tabraiz Shamsi",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vikas Tokas",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ishan Kishan",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Akshdeep Nath",
+        "role":"BATTER"
+    },
+    {
+        "name":"Umang Sharma",
+        "role":"BATTER"
+    },
+    {
+        "name":"Shivil Kaushik",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rahul Tripathi",
+        "role":"BATTER"
+    },
+    {
+        "name":"Saurabh Kumar",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ben Stokes",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Washington Sundar",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Rahul Chahar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Lockie Ferguson",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Milind Tandon",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Tanmay Agarwal",
+        "role":"BATTER"
+    },
+    {
+        "name":"Mohammad Nabi",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Rashid Khan",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mohammed Siraj",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ankit Bawne",
+        "role":"BATTER"
+    },
+    {
+        "name":"Shashank Singh",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Kagiso Rabada",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Navdeep Saini",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rovman Powell",
+        "role":"BATTER"
+    },
+    {
+        "name":"Colin de Grandhomme",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sanjay Yadav",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Chris Woakes",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sayan Ghosh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Asela Gunaratne",
+        "role":"BATTER"
+    },
+    {
+        "name":"Nicholas Pooran",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Krishnappa Gowtham",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Kulwant Khejroliya",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rinku Singh",
+        "role":"BATTER"
+    },
+    {
+        "name":"T Natarajan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vishnu Vinod",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Avesh Khan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Tymal Mills",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Adam Milne",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Billy Stanlake",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Chirag Suri",
+        "role":"BATTER"
+    },
+    {
+        "name":"Pratham Singh",
+        "role":"BATTER"
+    },
+    {
+        "name":"Jason Roy",
+        "role":"BATTER"
+    },
+    {
+        "name":"Ankit Soni",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Basil Thampi",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Tejas Baroka",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shubham Agarwal",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shelley Shaurya",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Narayan Jagadeesan",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Kshitiz Sharma",
+        "role":"BATTER"
+    },
+    {
+        "name":"Dhruv Shorey",
+        "role":"BATTER"
+    },
+    {
+        "name":"Chaitanya Bishnoi",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Monu Kumar",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Kanishk Seth",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"David Willey",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"KM Asif",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Lungi Ngidi",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mark Wood",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mehdi Hassan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Manjot Kalra",
+        "role":"BATTER"
+    },
+    {
+        "name":"Prithvi Shaw",
+        "role":"BATTER"
+    },
+    {
+        "name":"Abhishek Sharma",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Junior Dala",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sandeep Lamichhane",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Liam Plunkett",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Cameron Delport",
+        "role":"BATTER"
+    },
+    {
+        "name":"Shubman Gill",
+        "role":"BATTER"
+    },
+    {
+        "name":"Tom Curran",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Javon Searles",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shivam Mavi",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Prasidh Krishna",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Evin Lewis",
+        "role":"BATTER"
+    },
+    {
+        "name":"Sharad Lumba",
+        "role":"BATTER"
+    },
+    {
+        "name":"Anukul Roy",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Tajinder Singh",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mayank Markande",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mohsin Khan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"MD Nidheesh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Manzoor Dar",
+        "role":"BATTER"
+    },
+    {
+        "name":"Mayank Dagar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ben Dwarshuis",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Mujeeb Ur Rahman",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Aniruddha Joshi",
+        "role":"BATTER"
+    },
+    {
+        "name":"Moeen Ali",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Pavan Deshpande",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Aryaman Birla",
+        "role":"BATTER"
+    },
+    {
+        "name":"Prashant Chopra",
+        "role":"BATTER"
+    },
+    {
+        "name":"Jatin Saxena",
+        "role":"BATTER"
+    },
+    {
+        "name":"Heinrich Klaasen",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"D'Arcy Short",
+        "role":"BATTER"
+    },
+    {
+        "name":"Jofra Archer",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sudhesan Midhun",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ish Sodhi",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ruturaj Gaikwad",
+        "role":"BATTER"
+    },
+    {
+        "name":"Scott Kuggeleijn",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mitchell Santner",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Jonny Bairstow",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Sherfane Rutherford",
+        "role":"BATTER"
+    },
+    {
+        "name":"Keemo Paul",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Bandaru Ayyappa",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Joe Denly",
+        "role":"BATTER"
+    },
+    {
+        "name":"Harry Gurney",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Prithvi Raj",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Anmolpreet Singh",
+        "role":"BATTER"
+    },
+    {
+        "name":"Jason Behrendorff",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Pankaj Jaswal",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rasikh Salam",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Prabhsimran Singh",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Sam Curran",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Arshdeep Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Agnivesh Ayachi",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Harpreet Brar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Darshan Nalkande",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Varun Chakravarthy",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Hardus Viljoen",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shimron Hetmyer",
+        "role":"BATTER"
+    },
+    {
+        "name":"Himmat Singh",
+        "role":"BATTER"
+    },
+    {
+        "name":"Devdutt Padikkal",
+        "role":"BATTER"
+    },
+    {
+        "name":"Shivam Dube",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Prayas Ray Barman",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Riyan Parag",
+        "role":"BATTER"
+    },
+    {
+        "name":"Ashton Turner",
+        "role":"BATTER"
+    },
+    {
+        "name":"Liam Livingstone",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shubham Ranjane",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Oshane Thomas",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sai Kishore",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Abdul Samad",
+        "role":"BATTER"
+    },
+    {
+        "name":"Priyam Garg",
+        "role":"BATTER"
+    },
+    {
+        "name":"Bavanaka Sandeep",
+        "role":"BATTER"
+    },
+    {
+        "name":"Virat Singh",
+        "role":"BATTER"
+    },
+    {
+        "name":"Fabian Allen",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Alex Carey",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Lalit Yadav",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Daniel Sams",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Tushar Deshpande",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Anrich Nortje",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Tom Banton",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Chris Green",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Kamlesh Nagarkoti",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Manimaran Siddharth",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ali Khan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Prince Balwant Rai",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Digvijay Deshmukh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sheldon Cottrell",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ishan Porel",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ravi Bishnoi",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Josh Philippe",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Shahbaz Ahmed",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Isuru Udana",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Anuj Rawat",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Yashasvi Jaiswal",
+        "role":"BATTER"
+    },
+    {
+        "name":"Akash Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kartik Tyagi",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Hari Nishaanth",
+        "role":"BATTER"
+    },
+    {
+        "name":"Bhagath Varma",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Dominic Drakes",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Harishankar Reddy",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ripal Patel",
+        "role":"BATTER"
+    },
+    {
+        "name":"Shams Mulani",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Lukman Meriwala",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Tim Seifert",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Venkatesh Iyer",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Vaibhav Arora",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Marco Jansen",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Roosh Kalaria",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Simarjeet Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Yudhvir Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Arjun Tendulkar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Aiden Markram",
+        "role":"BATTER"
+    },
+    {
+        "name":"M Shahrukh Khan",
+        "role":"BATTER"
+    },
+    {
+        "name":"Dawid Malan",
+        "role":"BATTER"
+    },
+    {
+        "name":"Utkarsh Singh",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Nathan Ellis",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Adil Rashid",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Riley Meredith",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jhye Richardson",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Tim David",
+        "role":"BATTER"
+    },
+    {
+        "name":"Mohammed Azharuddeen",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Rajat Patidar",
+        "role":"BATTER"
+    },
+    {
+        "name":"Finn Allen",
+        "role":"BATTER"
+    },
+    {
+        "name":"George Garton",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Suyash Prabhudessai",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Akash Deep",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kyle Jamieson",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Dushmantha Chameera",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Glenn Phillips",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Chetan Sakariya",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kuldip Yadav",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Gerald Coetzee",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Devon Conway",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Subhranshu Senapati",
+        "role":"BATTER"
+    },
+    {
+        "name":"Rajvardhan Hangargekar",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Dwaine Pretorius",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mukesh Choudhary",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Matheesha Pathirana",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Prashant Solanki",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Maheesh Theekshana",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ravikumar Samarth",
+        "role":"BATTER"
+    },
+    {
+        "name":"Romario Shepherd",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Fazalhaq Farooqi",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sushant Mishra",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Umran Malik",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ashwin Hebbar",
+        "role":"BATTER"
+    },
+    {
+        "name":"Yash Dhull",
+        "role":"BATTER"
+    },
+    {
+        "name":"Vicky Ostwal",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Baba Indrajith",
+        "role":"BATTER"
+    },
+    {
+        "name":"Abhijeet Tomar",
+        "role":"BATTER"
+    },
+    {
+        "name":"Aman Khan",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Chamika Karunaratne",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ashok Sharma",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Harshit Rana",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ramesh Kumar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Dewald Brevis",
+        "role":"BATTER"
+    },
+    {
+        "name":"Rahul Buddhi",
+        "role":"BATTER"
+    },
+    {
+        "name":"Aryan Juyal",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Ramandeep Singh",
+        "role":"BATTER"
+    },
+    {
+        "name":"Tristan Stubbs",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Tilak Varma",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Kumar Kartikeya",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Hrithik Shokeen",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Bhanuka Rajapaksa",
+        "role":"BATTER"
+    },
+    {
+        "name":"Raj Bawa",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Writtick Chatterjee",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Benny Howell",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Prerak Mankad",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Odean Smith",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Atharva Taide",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Baltej Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ansh Patel",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Aneeshwar Gautam",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shubham Garhwal",
+        "role":"BATTER"
+    },
+    {
+        "name":"Dhruv Jurel",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Rassie van der Dussen",
+        "role":"BATTER"
+    },
+    {
+        "name":"Corbin Bosch",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Daryl Mitchell",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Anunay Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Obed McCoy",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kuldeep Sen",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rahmanullah Gurbaz",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Sai Sudharsan",
+        "role":"BATTER"
+    },
+    {
+        "name":"Abhinav Manohar",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Alzarri Joseph",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Noor Ahmad",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Yash Dayal",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ayush Badoni",
+        "role":"BATTER"
+    },
+    {
+        "name":"Kyle Mayers",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Karan Sharma",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mayank Yadav",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Shaik Rasheed",
+        "role":"BATTER"
+    },
+    {
+        "name":"Ajay Mandal",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Nishant Sindhu",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sisanda Magala",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Harry Brook",
+        "role":"BATTER"
+    },
+    {
+        "name":"Upendra Yadav",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Nitish Kumar Reddy",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sanvir Singh",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Vivrant Sharma",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Samarth Vyas",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Akeal Hosein",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Abishek Porel",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Phil Salt",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Mukesh Kumar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Aarya Desai",
+        "role":"BATTER"
+    },
+    {
+        "name":"Johnson Charles",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Suyash Sharma",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Nehal Wadhera",
+        "role":"BATTER"
+    },
+    {
+        "name":"Cameron Green",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Arshad Khan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Raghav Goyal",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Duan Jansen",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Akash Madhwal",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Chris Hurley",
+        "role":"BATTER"
+    },
+    {
+        "name":"Mohit Rathee",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Matthew Short",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sikandar Raza",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Gurnoor Brar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vidwath Kaverappa",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Manoj Bhandage",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Michael Bracewell",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sonu Yadav",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Will Jacks",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Avinash Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Rajan Kumar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Himanshu Sharma",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vijaykumar Vyshak",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Reece Topley",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kunal Singh Rathore",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Joe Root",
+        "role":"BATTER"
+    },
+    {
+        "name":"Abdul Basith",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Donovan Ferreira",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Akash Vasisht",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Urvil Patel",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Dasun Shanaka",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Josh Little",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Arpit Guleria",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Naveen-ul-Haq",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Yash Thakur",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Aravelly Avanish",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Rachin Ravindra",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Sameer Rizvi",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Richard Gleeson",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Wanindu Hasaranga",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Jhathavedh Subramanyan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vijayakanth Viyaskanth",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Swastik Chikara",
+        "role":"BATTER"
+    },
+    {
+        "name":"Jake Fraser-McGurk",
+        "role":"BATTER"
+    },
+    {
+        "name":"Shai Hope",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Kumar Kushagra",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Sumit Kumar",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Lizaad Williams",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Angkrish Raghuvanshi",
+        "role":"BATTER"
+    },
+    {
+        "name":"AM Ghazanfar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sakib Hussain",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Gus Atkinson",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Harvik Desai",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Shivalik Sharma",
+        "role":"BATTER"
+    },
+    {
+        "name":"Anshul Kamboj",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Naman Dhir",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Kwena Maphaka",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Nuwan Thushara",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Luke Wood",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Dilshan Madushanka",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ashutosh Sharma",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shivam Singh",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Tanay Thyagarajan",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Prince Choudhary",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vishwanath Pratap Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Saurav Chauhan",
+        "role":"BATTER"
+    },
+    {
+        "name":"Shubham Dubey",
+        "role":"BATTER"
+    },
+    {
+        "name":"Tom Kohler-Cadmore",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Abid Mushtaq",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Tanush Kotian",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Nandre Burger",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Keshav Maharaj",
+        "role":"BOWLER"
+    },
+    {
+        "name":"BR Sharath",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Robin Minz",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Azmatullah Omarzai",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Manav Suthar",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Spencer Johnson",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Arshin Kulkarni",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shamar Joseph",
+        "role":"BOWLER"
+    },
+    {
+        "name":"C Andre Siddarth",
+        "role":"BATTER"
+    },
+    {
+        "name":"Ayush Mhatre",
+        "role":"BATTER"
+    },
+    {
+        "name":"Vansh Bedi",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Ramakrishna Ghosh",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Jamie Overton",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Gurjapneet Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Aniket Verma",
+        "role":"BATTER"
+    },
+    {
+        "name":"Ravichandran Smaran",
+        "role":"BATTER"
+    },
+    {
+        "name":"Harsh Dubey",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Kamindu Mendis",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Brydon Carse",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Wiaan Mulder",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Eshan Malinga",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Zeeshan Ansari",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Sediqullah Atal",
+        "role":"BATTER"
+    },
+    {
+        "name":"Manvanth Kumar",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Madhav Tiwari",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Vipraj Nigam",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Tripurana Vijay",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Luvnith Sisodia",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Shivam Shukla",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Bevon Jacobs",
+        "role":"BATTER"
+    },
+    {
+        "name":"Krishnan Shrijith",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Ryan Rickelton",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Charith Asalanka",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Ashwani Kumar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Satyanarayana Raju",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Raghu Sharma",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Vignesh Puthur",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Priyansh Arya",
+        "role":"BATTER"
+    },
+    {
+        "name":"Pyla Avinash",
+        "role":"BATTER"
+    },
+    {
+        "name":"Harnoor Singh",
+        "role":"BATTER"
+    },
+    {
+        "name":"Josh Inglis",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Aaron Hardie",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Musheer Khan",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mitchell Owen",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Suryansh Shedge",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Xavier Bartlett",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jacob Bethell",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Abhinandan Singh",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Blessing Muzarabani",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Lhuan-dre Pretorius",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Vaibhav Sooryavanshi",
+        "role":"BATTER"
+    },
+    {
+        "name":"Kusal Mendis",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Karim Janat",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Matthew Breetzke",
+        "role":"BATTER"
+    },
+    {
+        "name":"Yuvraj Chaudhary",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Will O\u2019Rourke",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Prince Yadav",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Digvesh Rathi",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Kartik Sharma",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Zak Foulkes",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Prashant Veer",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Salil Arora",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Krains Fuletra",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Shivang Kumar",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Jack Edwards",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Amit Kumar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Praful Hinge",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Onkar Tarmale",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Ben Duckett",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Pathum Nissanka",
+        "role":"BATTER"
+    },
+    {
+        "name":"Sahil Parakh",
+        "role":"BATTER"
+    },
+    {
+        "name":"Auqib Nabi",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Tejasvi Dahiya",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Sarthak Ranjan",
+        "role":"BATTER"
+    },
+    {
+        "name":"Daksh Kamra",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Danish Malewar",
+        "role":"BATTER"
+    },
+    {
+        "name":"Atharva Ankolekar",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mayank Rawat",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mohd Izhar",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Cooper Connolly",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Vishal Nishad",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jordan Cox",
+        "role":"WICKETKEEPER"
+    },
+    {
+        "name":"Kanishk Chouhan",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Vihaan Malhotra",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Mangesh Yadav",
+        "role":"ALL-ROUNDER"
+    },
+    {
+        "name":"Satvik Deswal",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Jacob Duffy",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Aman Rao",
+        "role":"BATTER"
+    },
+    {
+        "name":"Ravi Singh",
+        "role":"BATTER"
+    },
+    {
+        "name":"Brijesh Sharma",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Yash Raj Punja",
+        "role":"BOWLER"
+    },
+    {
+        "name":"Akshat Raghuwanshi",
+        "role":"BATTER"
+    },
+    {
+        "name":"Mukul Choudhary",
+        "role":"BATTER"
+    },
+    {
+        "name":"Naman Tiwari",
+        "role":"BOWLER"
+    }
+]
