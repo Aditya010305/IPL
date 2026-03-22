@@ -3,9 +3,8 @@ import { useParams, useNavigate } from 'react-router-dom';
 import io from 'socket.io-client';
 import axios from 'axios';
 
-const SOCKET_URL = 'https://ipl-ns9d.onrender.com';
-const API_URL = 'https://ipl-ns9d.onrender.com/api';
-
+const SOCKET_URL = import.meta.env.VITE_SOCKET_URL || 'http://localhost:5001';
+const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5001/api';
 const formatMoney = (amount) => {
   if (!amount) return '0';
   if (amount >= 10000000) return `${(amount / 10000000).toFixed(2)} Cr`;

@@ -9,20 +9,36 @@ import apiRoutes from './routes.js';
 
 dotenv.config();
 
-const app = express();
-app.use(cors({
-  origin: '*',
+// Build allowed origins: always include localhost for dev + production frontend URL
+const allowedOrigins = ['http://localhost:5173', 'http://localhost:4173'];
+if (process.env.FRONTEND_URL) {
+  allowedOrigins.push(process.env.FRONTEND_URL);
+}
+
+const corsOptions = {
+  origin: (origin, callback) => {
+    // Allow requests with no origin (server-to-server, Postman, etc.)
+    if (!origin || allowedOrigins.includes(origin)) {
+      callback(null, true);
+    } else {
+      callback(new Error(`CORS blocked: ${origin}`));
+    }
+  },
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   credentials: true,
-}));
+};
+
+const app = express();
+app.use(cors(corsOptions));
 app.use(express.json());
 app.use('/api', apiRoutes);
 
 const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
-    origin: '*',
+    origin: allowedOrigins,
     methods: ['GET', 'POST'],
-    credentials: true
+    credentials: true,
   },
   transports: ['polling', 'websocket']
 });
