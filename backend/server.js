@@ -9,7 +9,7 @@ import apiRoutes from './routes.js';
 
 dotenv.config();
 
-// Build allowed origins: always include localhost for dev + production frontend URL
+// Build allowed origins: localhost for dev + any vercel.app deployment + custom FRONTEND_URL
 const allowedOrigins = ['http://localhost:5173', 'http://localhost:4173'];
 if (process.env.FRONTEND_URL) {
   allowedOrigins.push(process.env.FRONTEND_URL);
@@ -17,11 +17,16 @@ if (process.env.FRONTEND_URL) {
 
 const corsOptions = {
   origin: (origin, callback) => {
-    // Allow requests with no origin (server-to-server, Postman, etc.)
-    if (!origin || allowedOrigins.includes(origin)) {
+    // Allow: no origin (server-to-server / Postman), localhost, vercel.app previews, custom domain
+    if (
+      !origin ||
+      allowedOrigins.includes(origin) ||
+      /\.vercel\.app$/.test(origin)   // allow ALL vercel.app preview deployments
+    ) {
       callback(null, true);
     } else {
-      callback(new Error(`CORS blocked: ${origin}`));
+      // Return false (blocks request) instead of Error (causes 500)
+      callback(null, false);
     }
   },
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
@@ -41,7 +46,13 @@ app.get('/ping', (req, res) => {
 const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
-    origin: allowedOrigins,
+    origin: (origin, callback) => {
+      if (!origin || allowedOrigins.includes(origin) || /\.vercel\.app$/.test(origin)) {
+        callback(null, true);
+      } else {
+        callback(null, false);
+      }
+    },
     methods: ['GET', 'POST'],
     credentials: true,
   },

@@ -34,8 +34,10 @@ router.post('/auth/google', async (req, res) => {
     } catch (verifyErr) {
       // Fallback: decode JWT without verification
       // Google's popup already verified identity — we just need the user info
-      const base64Payload = token.split('.')[1];
-      const decoded = Buffer.from(base64Payload, 'base64url').toString('utf-8');
+      const base64Payload = token.split('.')[1]
+        .replace(/-/g, '+')   // base64url → base64
+        .replace(/_/g, '/');  // safe on ALL Node.js versions
+      const decoded = Buffer.from(base64Payload, 'base64').toString('utf-8');
       payload = JSON.parse(decoded);
 
       // Basic sanity check — must be a real Google token
