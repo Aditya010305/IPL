@@ -77,8 +77,11 @@ const AuctionRoom = () => {
     const intervalId = setInterval(fetchRoom, 3000); // Polling for robust approval state & room sync
 
     const newSocket = io(SOCKET_URL, {
-      transports: ["websocket", "polling"], 
-      secure: true,
+      transports: ["polling", "websocket"],
+      withCredentials: true,
+      reconnection: true,
+      reconnectionAttempts: 5,
+      timeout: 20000,
     });
     setSocket(newSocket);
 
