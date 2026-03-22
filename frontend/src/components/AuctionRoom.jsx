@@ -76,7 +76,10 @@ const AuctionRoom = () => {
     fetchRoom();
     const intervalId = setInterval(fetchRoom, 3000); // Polling for robust approval state & room sync
 
-    const newSocket = io(SOCKET_URL);
+    const newSocket = io(SOCKET_URL, {
+        transports: ["websocket"],
+        withCredentials: false
+    });
     setSocket(newSocket);
 
     // Only join socket interactions if approved
