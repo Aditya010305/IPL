@@ -77,18 +77,22 @@ const AuctionRoom = () => {
     const intervalId = setInterval(fetchRoom, 3000); // Polling for robust approval state & room sync
 
     const newSocket = io(SOCKET_URL, {
-        transports: ["websocket"],
-        withCredentials: false
+      transports: ["websocket", "polling"], 
+      secure: true,
     });
     setSocket(newSocket);
 
-    // Only join socket interactions if approved
-    if (currentUser.approvalStatus === 'APPROVED') {
-      newSocket.emit('join_room', { roomId, user: currentUser });
-      if (teamId) {
-         newSocket.emit('join_team_chat', { roomId, teamId });
+    newSocket.on("connect", () => {
+    console.log("Socket connected:", newSocket.id);
+
+      if (currentUser.approvalStatus === 'APPROVED') {
+        newSocket.emit('join_room', { roomId, user: currentUser });
+
+        if (teamId) {
+          newSocket.emit('join_team_chat', { roomId, teamId });
+        }
       }
-    }
+    });
 
     newSocket.on('new_player', ({ player, currentBid }) => {
       setCurrentPlayer(player);
