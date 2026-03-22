@@ -10,7 +10,10 @@ import apiRoutes from './routes.js';
 dotenv.config();
 
 const app = express();
-app.use(cors());
+app.use(cors({
+  origin: '*',
+  credentials: true,
+}));
 app.use(express.json());
 app.use('/api', apiRoutes);
 
@@ -21,7 +24,7 @@ const io = new Server(server, {
     methods: ['GET', 'POST'],
     credentials: true
   },
-  transports: ['websocket', 'polling'] 
+  transports: ['polling', 'websocket']
 });
 
 connectDB();
