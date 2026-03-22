@@ -33,6 +33,11 @@ app.use(cors(corsOptions));
 app.use(express.json());
 app.use('/api', apiRoutes);
 
+// Health check endpoint for FastCron / uptime monitors
+app.get('/ping', (req, res) => {
+  res.json({ status: 'ok', uptime: process.uptime(), timestamp: new Date().toISOString() });
+});
+
 const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
